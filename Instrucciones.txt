@@ -1,0 +1,16 @@
+Lucky Sphere!!
+
+Controles:
+
+Mover vista - "mouse"
+moverse adelante - "w"
+moverse atras - "s"
+moverse izquierda - "a"
+moverse derecha - "d"
+saltar - "space"
+pausar: "esc"
+reaparecer luego de morir - "Enter"
+
+Se agregó efectos de sonido al morir y al reaparecer y en el menu principal
+
+(Preferiblemente jugar con la opcion Maximaze on play activado)
